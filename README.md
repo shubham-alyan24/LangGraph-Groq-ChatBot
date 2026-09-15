@@ -42,8 +42,8 @@ A hands-on learning repository demonstrating the progression from basic LangGrap
 
 ### 1. Clone Repository & Create Virtual Environment
 ```bash
-git clone https://github.com/shubham-alyan24/LangGraph-Ollama-ChatBot.git
-cd LangGraph-Ollama-ChatBot
+git clone https://github.com/shubham-alyan24/LangGraph-Groq-ChatBot.git
+cd LangGraph-Groq-ChatBot
 python -m venv venv
 # On Windows:
 .\venv\Scripts\activate
